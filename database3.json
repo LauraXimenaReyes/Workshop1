@@ -2,6 +2,6 @@
 
     "user": "postgres",
     "password": "lauraluna",
-    "dbname": "candidates_database01"
+    "dbname": "candidatesdb"
 
 }
